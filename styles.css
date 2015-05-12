@@ -1,0 +1,131 @@
+
+
+
+
+/* Header */
+
+header {
+
+	background-image: url("support-us-header-2.png");
+	background-repeat: no-repeat; 
+	background-position: right bottom;
+	
+}
+
+/* Body Styles */
+
+body {
+		
+		color: black;
+		
+		
+	}
+
+
+
+h2 {
+	text-align: right;
+	margin-right: 200px;
+	}
+
+h2 p {
+	color:black;
+	font-size: 20m;
+}
+
+
+/*  Navigation List */
+ 
+ a:hover {
+	color: white;
+	}
+	
+	
+/* Horizontal List */
+
+a {
+	text-decoration: none;
+	text-align: center;
+	
+}
+
+nav.horizontal ul{
+	list-style-type: none;
+	text-align: center;
+	border: groove;
+	border-color: black;
+	background-color:black;
+	margin-bottom: 5px;
+	margin-top: 0px;
+	
+
+}
+
+nav.horizontal ul li {
+   
+   display: inline;
+   font-size: 20px;
+   margin: 20px;
+   text-decoration: none;
+   
+}
+
+nav.horizontal ul li a {
+   color: White;
+}
+
+nav.horizontal ul li a:hover {
+   color: #2ECCFA;
+}
+
+
+
+/* Table Styles */
+
+table.schedule {
+	border: 10px outset #2ECCFA;
+	font-size: 1.5em;
+	margin-bottom: 100px;
+	
+	
+	
+}
+
+table.map {
+	float: right;
+	margin-right: 700px;
+	
+	
+	
+}
+
+
+
+/* adoptable animals */
+
+div.browncat {
+	border: 1px solid;
+	border-color: yellow;
+	
+
+}
+
+
+
+
+
+
+
+
+/*Footer */
+
+footer {
+	color: black;
+	border-top: solid;
+	border-top-color: black;
+	
+}
+ 
+footer a:hover{
+	color:#2ECCFA;
+}
