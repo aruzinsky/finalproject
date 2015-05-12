@@ -21,6 +21,6 @@ function *index() {
 }
 
 if (!module.parent) {
-	app.listen(3001);
+	app.listen(8080);
 	console.log('Final Project is listening on port 3001');
 }
