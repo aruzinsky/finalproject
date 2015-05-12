@@ -1,0 +1,25 @@
+{
+  "name": "ashleyruzinsky",
+  "version": "1.0.0",
+  "description": "Ashley Ruzinksy's final project",
+  "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aruzinsky/finalproject.git"
+  },
+  "author": "Ashley Ruzinsky",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aruzinsky/finalproject/issues"
+  },
+  "dependencies": {
+    "co-views": "^0.2.0",
+    "koa": "^0.8.1",
+    "koa-route": "^1.1.4",
+    "koa-static": "^1.4.5",
+    "swig": "^1.4.1"
+  },
+  "devDependencies": {
+    "koa-logger": "^1.2.2"
+  }
+}
